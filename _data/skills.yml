@@ -1,19 +1,29 @@
 - name: Software Engineer Keywords
   keywords:
-      - Java
-      - C++
+      - Scala
       - Python
-      - Design Patterns
+      - C++
+      - MatLab
 
-- name: Mobile Developer Keywords
+- name: Machine Learning
   keywords:
-      - Android
-      - Reverse Engineering
+      - TensorFlow
+      - Scikit-learn
+      - NLTK
+      - Keras
+      - PyTorch
 
-- name: Windows Developer Keywords
+- name: Database
   keywords:
-      - Win32 SDK
-      - DuiLib
-      - WTL
-      - COM
-      - WinDbg
+      - Vertica
+      - SQL
+      - Cassandra
+      - Redis
+      - Hive
+
+- name: Distributed System
+  keywords:
+      - Spark
+      - Flink
+      - Hadoop
+      
