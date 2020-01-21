@@ -2,13 +2,13 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://fufuleetcode.github.io
+url: https://fufuleetcode.com
 date_format: "ordinal"
 title: 小小福LeetCode
-subtitle: "好好刷题，多多offers"
+subtitle: "好好刷题，多多offers!"
 description: "小小福的LeetCode讲解"
 keywords: Fufu, 小小福, LeetCode
-timezone: Asia/Shanghai
+timezone: PTC
 encoding: "utf-8"
 side_bar_repo_limit: 5
 
