@@ -1,6 +1,6 @@
-# 码志
+# 小小福LeetCode
 
-我的个人博客：<https://mazhuang.org>，欢迎 Star 和 Fork。
+我的个人博客：<https://www.fufuleetcode.com>，欢迎 Star 和 Fork。
 
 ## 概览
 
