@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: 
+url: "fufuleetcode.github.io"
 date_format: "ordinal"
 title: 小小福LeetCode
 subtitle: "好好刷题，多多offers!"
