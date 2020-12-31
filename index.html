@@ -30,9 +30,13 @@ comments: false
         </div>
     </div>
 </section>
+
+
+
 <!-- /.banner -->
 <section class="container content">
     <div class="columns">
+        
         <div class="column two-thirds" >
             <ol class="repo-list">
                 {% for post in paginator.posts %}
@@ -59,9 +63,16 @@ comments: false
             </ol>
         </div>
         <div class="column one-third">
+            <div>
+                <b>您的喜欢和支持是我们前进最大的动力！</b>
+                <br>
+                <img src="/images/wiki/pay_venmo.png" width="250">
+                <img src="/images/wiki/pay_wechat.png" width="250">
+            </div>
+
             {% include sidebar-search.html %}
             {% include sidebar-qrcode.html %}
-            {% include sidebar-popular-repo.html %}
+            <!-- {% include sidebar-popular-repo.html %} -->
         </div>
     </div>
     <div class="pagination text-align">

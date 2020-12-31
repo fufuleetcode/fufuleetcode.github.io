@@ -8,7 +8,13 @@ menu: 维基
 permalink: /wiki/
 ---
 
-> 记多少命令和快捷键会让脑袋爆炸呢？
+<div>
+    <b>欢迎大家支持我的频道</b>
+    <br>
+    <img src="/images/wiki/pay_venmo.png" width="250">
+    <br>
+    <img src="/images/wiki/pay_wechat.png" width="250">
+</div>
 
 <ul class="listing">
 {% for wiki in site.wiki %}
