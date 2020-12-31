@@ -5,7 +5,7 @@ baseurl:
 url: ""
 date_format: "ordinal"
 title: 小小福的LeetCode频道
-subtitle: "好好刷题，多多Offers！爱上Coding ！"
+subtitle: "好好刷题，多多Offers！"
 description: "小小福的LeetCode讲解"
 keywords: Fufu, 小小福, LeetCode
 timezone: PTC
@@ -38,13 +38,17 @@ navs:
 #     href: /archives/
 #     label: 归档
 
-  -
-    href: /wiki/
-    label: 维基
+  # -
+  #   href: /wiki/
+  #   label: 维基
 
   -
-    href: /links/
-    label: 链接
+    href: /donation/
+    label: 捐赠
+
+  # -
+  #   href: /links/
+  #   label: 链接
 
   -
     href: /about/

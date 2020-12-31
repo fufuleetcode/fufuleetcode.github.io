@@ -1,29 +1,29 @@
-- name: Software Engineer Keywords
-  keywords:
-      - Scala
-      - Python
-      - C++
-      - MatLab
+# - name: Software Engineer Keywords
+#   keywords:
+#       - Scala
+#       - Python
+#       - C++
+#       - MatLab
 
-- name: Machine Learning
-  keywords:
-      - TensorFlow
-      - Scikit-learn
-      - NLTK
-      - Keras
-      - PyTorch
+# - name: Machine Learning
+#   keywords:
+#       - TensorFlow
+#       - Scikit-learn
+#       - NLTK
+#       - Keras
+#       - PyTorch
 
-- name: Database
-  keywords:
-      - Vertica
-      - SQL
-      - Cassandra
-      - Redis
-      - Hive
+# - name: Database
+#   keywords:
+#       - Vertica
+#       - SQL
+#       - Cassandra
+#       - Redis
+#       - Hive
 
-- name: Distributed System
-  keywords:
-      - Spark
-      - Flink
-      - Hadoop
-      
+# - name: Distributed System
+#   keywords:
+#       - Spark
+#       - Flink
+#       - Hadoop
+    
