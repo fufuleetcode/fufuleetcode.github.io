@@ -1,35 +1,35 @@
 ﻿lc_number,lc_question,lc_difficulty,description,lc_tags,youtube_video_number,bilibili_video_link,github_code_link
-1,Two Sum,Easy,,"Array, Hash Table",c7qVoEcundc,https://www.bilibili.com/video/BV1eJ41187sE,https://github.com/fufuleetcode/FufuLeetCode/blob/master/1.two-sum.py
-2,Add Two Numbers    ,Medium,,"Linked List, Math",PF-7_YeMoKo,,
-3,Longest Substring Without Repeating Characters    ,Medium,,"Hash Table, Two Pointers, String, Sliding Windows",Aw_SC4ffip0,,
-15,3Sum,Medium,,,CtrV7gpOdfI,,
-19,Remove Nth Node From End of List ,Medium,,,5JpShorIQdk,,
-20,Valid Parentheses    ,Easy,,,mq8qDefE1TM,,
-21,Merge Two Sorted Lists    ,Easy,,,DVv0SqQ0TxM,,
-22,Generate Parentheses    ,Medium,,,zW8qP5SCcg0,,
-23,Merge k Sorted Lists  ,Hard,,,VD7Nizvm4-4,,
-33,Search in Rotated Sorted Array    ,Medium,,,eG0DPSERvJw,,
-42,Trapping Rain Water    ,Hard,,,EIFpXEzFIj8,,
-53,Maximum Subarray    ,Easy,,,XK7XXKEtvo0,,
-56,Merge Intervals    ,Medium,,,e7LrLNjhgoo,,
-76,Minimum Window Substring    ,Hard,,,YP3bBDuojqk,,
-121,Best Time to Buy and Sell Stock    ,Easy,,,dCpltAWsqzo,,
-138,Copy List with Random Pointer    ,Medium,,,RK5KaR_gbg8,,
-139,Word Break    ,Medium,,,5_T7ihU-zdo,,
-146,LRU Cache    ,Medium,,,-lENpOxpSIE,,
-200,Number of Islands    ,Medium,,,OMCZQe-oXe8,,
-203,Remove Linked List Elements    ,Easy,,,cgzw4sPRihg,,
-237,integer to English words,Hard,,,R6BiEJG4BZ0,,
-238,Product of Array Except Self    ,Medium,,,u3Y7gGySnzk,,
-269,Alien Dictionary,Hard,,,ZU7fiX0WCCY,,
-297,Serialize and Deserialize Binary Tree ,Hard,,,8xopIFMGjRs,,
-322,Coin Change    ,Medium,,,EM9YWv1hBSk,,
-332,Reconstruct Itinerary    ,Medium,,,9mRDfF4eyO0,,
-560,Subarray Sum Equals K    ,Medium,,,27kLEkHY_50,,
+1,Two Sum,Easy,,"Array, Hash Table",c7qVoEcundc,https://www.bilibili.com/video/BV1eJ41187sE/,https://github.com/fufuleetcode/FufuLeetCode/blob/master/1.two-sum.py
+2,Add Two Numbers    ,Medium,,"Linked List, Math",PF-7_YeMoKo,https://www.bilibili.com/video/BV1eJ411874U/,https://github.com/fufuleetcode/FufuLeetCode/blob/master/2.add-two-numbers.py
+3,Longest Substring Without Repeating Characters    ,Medium,,"Hash Table, Two Pointers, String, Sliding Windows",Aw_SC4ffip0,https://www.bilibili.com/video/BV1Ho4y1Z7Bg/,
+15,3Sum,Medium,,"Array, Two Pointers",CtrV7gpOdfI,https://www.bilibili.com/video/BV1Y5411H77s/,
+19,Remove Nth Node From End of List ,Medium,,"Linked List, Array",5JpShorIQdk,https://www.bilibili.com/video/BV1if4y1e7kQ/,https://github.com/fufuleetcode/FufuLeetCode/blob/master/19.remove-nth-node-from-end-of-list.py
+20,Valid Parentheses    ,Easy,,"String, Stack",mq8qDefE1TM,https://www.bilibili.com/video/BV1HZ4y137Zj/,
+21,Merge Two Sorted Lists    ,Easy,,Linked List,DVv0SqQ0TxM,https://www.bilibili.com/video/BV1YV411b7em/,https://github.com/fufuleetcode/FufuLeetCode/blob/master/21.merge-two-sorted-lists.py
+22,Generate Parentheses    ,Medium,,"String, Backtracking",zW8qP5SCcg0,https://www.bilibili.com/video/BV1HZ4y137wV/,
+23,Merge k Sorted Lists  ,Hard,,"Linked List, Divide and Conquer, Heap",VD7Nizvm4-4,https://www.bilibili.com/video/BV1oA411s7sr/,
+33,Search in Rotated Sorted Array    ,Medium,,"Array, Binary Search",eG0DPSERvJw,https://www.bilibili.com/video/BV14X4y1T7B3/,
+42,Trapping Rain Water    ,Hard,,"Array, Two Pointers, Stack",EIFpXEzFIj8,https://www.bilibili.com/video/BV1eJ41187MB/,
+53,Maximum Subarray    ,Easy,,"Array, Divide and Conquer, Dynamics Programming",XK7XXKEtvo0,https://www.bilibili.com/video/BV1tZ4y137BB/,
+56,Merge Intervals    ,Medium,,"Array, Sort",e7LrLNjhgoo,https://www.bilibili.com/video/BV1YV411b7em/,
+76,Minimum Window Substring    ,Hard,,"Hash Table, Two Pointers, String, Sliding Windows",YP3bBDuojqk,https://www.bilibili.com/video/BV1Vt4y1C7dD/,
+121,Best Time to Buy and Sell Stock    ,Easy,,"Array, Dynamic Programming",dCpltAWsqzo,https://www.bilibili.com/video/BV1Gi4y1w7a6/,
+138,Copy List with Random Pointer    ,Medium,,"Hash Table, Linked List",RK5KaR_gbg8,https://www.bilibili.com/video/BV1Ev411t7zx/,https://github.com/fufuleetcode/FufuLeetCode/blob/master/138.copy-list-with-random-pointer.py
+139,Word Break    ,Medium,,Dynamic Programming,5_T7ihU-zdo,https://www.bilibili.com/video/BV19z4y1r7vT/,https://github.com/fufuleetcode/FufuLeetCode/blob/master/139.word-break.py
+146,LRU Cache    ,Medium,,Design,=-lENpOxpSIE,https://www.bilibili.com/video/BV1Ky4y1U7gB/,
+200,Number of Islands    ,Medium,,"Depth-First Search, Bredth-First Search, Union Find",OMCZQe-oXe8,https://www.bilibili.com/video/BV1eJ41187TH/,
+203,Remove Linked List Elements    ,Easy,,,cgzw4sPRihg,,https://github.com/fufuleetcode/FufuLeetCode/blob/master/203.remove-linked-list-elements.py
+237,integer to English words,Hard,,"String, Math",R6BiEJG4BZ0,https://www.bilibili.com/video/BV1ay4y1U7Ti/,
+238,Product of Array Except Self    ,Medium,,Array,u3Y7gGySnzk,https://www.bilibili.com/video/BV1Pp4y1B7EL/,
+269,Alien Dictionary,Hard,,"Graph, Topological Sort",ZU7fiX0WCCY,https://member.bilibili.com/platform/upload-manager/article?keyword=Alien%20Dictionary&page=1,
+297,Serialize and Deserialize Binary Tree ,Hard,,"Tree, Design",8xopIFMGjRs,https://www.bilibili.com/video/BV1M54y1x7ST/,
+322,Coin Change    ,Medium,,,EM9YWv1hBSk,,https://github.com/fufuleetcode/FufuLeetCode/blob/master/322.coin-change.py
+332,Reconstruct Itinerary    ,Medium,,,9mRDfF4eyO0,,https://github.com/fufuleetcode/FufuLeetCode/blob/master/332.reconstruct-itinerary.py
+560,Subarray Sum Equals K    ,Medium,,"Array, Hash Table",27kLEkHY_50,https://www.bilibili.com/video/BV1X64y1o7bY/,
 708,Insert into a Sorted Circular Linked List  ,Medium,,,S8ZjuH_sFT0,,
 973,K Closest Points to Origin,Medium,,"Divide and Conquer, Heap, Sort",G9VcMTSZ1Lo,,https://github.com/fufuleetcode/FufuLeetCode/blob/master/973.k-closest-points-to-origin.py
-1004,Max Consecutive Ones III    ,Medium,,,LNyGd9JxPCs,,
-1192,Critical Connections in a Network    ,Hard,,,mKUsbABiwBI,,
-1304,Find N Unique Integers Sum up to Zero    ,Easy,,,mYm6A6Jq8s0,,
-1305,All Elements in Two Binary Search Trees    ,Medium,,,MV3bS4MJwho,,
-1306,Jump Game III    ,Medium,,,ejL-NjPbEsU,,
+1004,Max Consecutive Ones III    ,Medium,,,LNyGd9JxPCs,,https://github.com/fufuleetcode/FufuLeetCode/blob/master/1004.max-consecutive-ones-iii.py
+1192,Critical Connections in a Network    ,Hard,,Depth-First Search,mKUsbABiwBI,https://www.bilibili.com/video/BV15v411t7v2/,
+1304,Find N Unique Integers Sum up to Zero    ,Easy,,Array,mYm6A6Jq8s0,https://www.bilibili.com/video/BV1AK4y1j7Qi/,
+1305,All Elements in Two Binary Search Trees    ,Medium,,"Sort, Tree",MV3bS4MJwho,https://www.bilibili.com/video/BV1V54y1x7BD/,
+1306,Jump Game III    ,Medium,,"Graph, Bredth-First Search",ejL-NjPbEsU,https://www.bilibili.com/video/BV1Jo4y1Z7eZ/,
