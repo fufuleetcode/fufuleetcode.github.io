@@ -125,5 +125,7 @@ simple_jekyll_search:
 # ---------------- #
 #    Analytics     #
 # ---------------- #
-google:
-    analytics_id: 257490189
+# google:
+#     analytics_id: G-P1GCENYGSY
+# google_analytics: 'G-P1GCENYGSY'
+
