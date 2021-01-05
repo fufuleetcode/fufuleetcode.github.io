@@ -9,14 +9,14 @@
 22,Generate Parentheses    ,Medium,,"String, Backtracking",zW8qP5SCcg0,https://www.bilibili.com/video/BV1HZ4y137wV/,
 23,Merge k Sorted Lists  ,Hard,,"Linked List, Divide and Conquer, Heap",VD7Nizvm4-4,https://www.bilibili.com/video/BV1oA411s7sr/,
 33,Search in Rotated Sorted Array    ,Medium,,"Array, Binary Search",eG0DPSERvJw,https://www.bilibili.com/video/BV14X4y1T7B3/,
-42,Trapping Rain Water    ,Hard,,"Array, Two Pointers, Stack",EIFpXEzFIj8,https://www.bilibili.com/video/BV1eJ41187MB/,
+42,Trapping Rain Water    ,Hard,,"Array, Two Pointers, Stack",EIFpXEzFIj8,https://www.bilibili.com/video/BV1eJ41187MB/,https://github.com/fufuleetcode/FufuLeetCode/blob/master/42.trapping-rain-water.py
 53,Maximum Subarray    ,Easy,,"Array, Divide and Conquer, Dynamics Programming",XK7XXKEtvo0,https://www.bilibili.com/video/BV1tZ4y137BB/,
 56,Merge Intervals    ,Medium,,"Array, Sort",e7LrLNjhgoo,https://www.bilibili.com/video/BV1YV411b7em/,
 76,Minimum Window Substring    ,Hard,,"Hash Table, Two Pointers, String, Sliding Windows",YP3bBDuojqk,https://www.bilibili.com/video/BV1Vt4y1C7dD/,
 121,Best Time to Buy and Sell Stock    ,Easy,,"Array, Dynamic Programming",dCpltAWsqzo,https://www.bilibili.com/video/BV1Gi4y1w7a6/,
 138,Copy List with Random Pointer    ,Medium,,"Hash Table, Linked List",RK5KaR_gbg8,https://www.bilibili.com/video/BV1Ev411t7zx/,https://github.com/fufuleetcode/FufuLeetCode/blob/master/138.copy-list-with-random-pointer.py
 139,Word Break    ,Medium,,Dynamic Programming,5_T7ihU-zdo,https://www.bilibili.com/video/BV19z4y1r7vT/,https://github.com/fufuleetcode/FufuLeetCode/blob/master/139.word-break.py
-146,LRU Cache    ,Medium,,Design,=-lENpOxpSIE,https://www.bilibili.com/video/BV1Ky4y1U7gB/,
+146,LRU Cache    ,Medium,,Design,#NAME?,https://www.bilibili.com/video/BV1Ky4y1U7gB/,
 200,Number of Islands    ,Medium,,"Depth-First Search, Bredth-First Search, Union Find",OMCZQe-oXe8,https://www.bilibili.com/video/BV1eJ41187TH/,
 203,Remove Linked List Elements    ,Easy,,,cgzw4sPRihg,,https://github.com/fufuleetcode/FufuLeetCode/blob/master/203.remove-linked-list-elements.py
 237,integer to English words,Hard,,"String, Math",R6BiEJG4BZ0,https://www.bilibili.com/video/BV1ay4y1U7Ti/,
