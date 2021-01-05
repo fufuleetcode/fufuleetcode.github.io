@@ -140,7 +140,7 @@ def generate_blog_md():
 		"""
 		target_path = os.path.join(image_output, "lc_"+str(lc_number))
 		image_names = []
-		for file_name in sorted(os.listdir(target_path)):
+		for file_name in sorted(os.listdir(target_path), key = lambda x: int(x.split(".")[0].split("de")[1])):
 			print(file_name)
 			image_names.append(file_name)
 		lc_number = meta_dict.get("lc_number","")
