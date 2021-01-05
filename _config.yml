@@ -4,9 +4,9 @@
 baseurl:
 url: ""
 date_format: "ordinal"
-title: 小小福的LeetCode频道
+title: 小小福LeetCode
 subtitle: "好好刷题，多多Offers！"
-description: "小小福的LeetCode讲解"
+description: "小小福LeetCode讲解"
 keywords: Fufu, 小小福, LeetCode
 timezone: PTC
 encoding: "utf-8"
@@ -16,7 +16,7 @@ side_bar_repo_limit: 5
 #      Author      #
 # ---------------- #
 author: Frank
-organization: 
+organization: FuFuLeetcode
 organization_url: 
 github_username: fufuleetcode
 location: Sunnyvale, CA, US

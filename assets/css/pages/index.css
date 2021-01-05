@@ -1,11 +1,15 @@
-.home .banner,
+.home .banner {
+  background: #e4ac52;
+  background-image: url("/images/banner/banner_img.jpg");
+  color: #fff
+}
 .home .site-header {
-    background: #4183c4;
-    color: #fff
+  background: #ffffff;
+  color: rgb(0, 0, 0)
 }
 
 .home .banner .collection-head {
-    color: #fff;
+    color: rgb(255, 255, 255);
     background: 0 0;
     box-shadow: none;
     -webkit-box-shadow: none
@@ -13,18 +17,18 @@
 
 .home .site-header {
     border-bottom: none
-}
+} 
 
 .home .site-header h1 a {
-    color: #fff
+    color: rgb(54, 24, 0)
 }
 
 .home .site-header .site-header-nav-item {
-    color: rgba(255, 255, 255, .5)
+    color: rgba(0, 0, 0, 0.5)
 }
 
 .home .site-header .site-header-nav-item:hover {
-    color: #fff
+    color: rgb(0, 0, 0)
 }
 
 
